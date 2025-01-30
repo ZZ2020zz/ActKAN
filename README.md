@@ -1,1 +1,1 @@
-# ActKAN
+This paper aims to improve activity understanding, it introduces attention based feature extraction block (feature encoder), wavelet transform based KAN model for decoder, and an adaptive weight loss are designed to relief data imbalance issue.
